@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @roboisaac11
 - 👀 I’m interested in preaty much everything
-- 🌱 I’m currently learning how to make games.
+- 🌱 I’m currently learning how to make OSes
 - 💞️ I’m not looking to collaborate on anything
 - 📫 reach me at isaackroeker@outlook.com
 
